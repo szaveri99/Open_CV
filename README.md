@@ -65,5 +65,6 @@ cv2.destroyAllWindows()
 ## Important Notes:
 - Ensure that the required images are present in the specified paths.
 - Modify the filenames and paths as needed for your use case.
+- To install rembg pacakge it's preferred to have the python interpreter version <3.12
 
 Feel free to explore and customize the toolkit based on your specific image processing requirements.
